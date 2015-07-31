@@ -1,0 +1,10 @@
+#+HTML_DOCTYPE: html5
+#+HTML_CONTAINER_CLASS: container
+#+HTML_HEAD: <script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
+#+HTML_HEAD: <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+#+HTML_HEAD: <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/languages/clojure.min.js"></script>
+#+HTML_HEAD: <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/languages/bash.min.js"></script>
+#+HTML_HEAD: <script src="https://raw.githubusercontent.com/nblumoe/org-loom/master/highlight.js"></script>
+#+HTML_HEAD: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/monokai.min.css">
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/nblumoe/org-loom/master/htmlize.css" />
